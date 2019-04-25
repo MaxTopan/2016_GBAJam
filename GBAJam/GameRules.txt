@@ -1,0 +1,10 @@
+- Shoot empty notes to fill them up
+- Dodge full notes
+- When full notes hit the screen's edge/stave bar they sound out and disappear
+- Each note that hits you or leaves the screen empty damages you by 1 point
+- You die after taking 4 points of damage
+- You can go up and down the 4 blank spaces in between the lines
+- You get told your % of note completion at the end of the song/level
+- You can only shoot when there's not a shot on screen already
+
+MOVE IN SPACES OF 1.38 UNITS

@@ -1,0 +1,19 @@
+0 - no tail,		empty
+1 - no tail,		full
+2 - no tail,		death
+
+3 - closed tail,	empty
+4 - closed tail,	full
+5 - closed tail,	death
+
+6 - left tail,		empty
+7 - left tail,		full
+8 - left tail,		death
+
+9 - middle tail,	empty
+10 - middle tail,	full
+11 - middle tail,	death
+
+12 - right tail,	empty
+13 - right tail,	full
+14 - right tail,	death
